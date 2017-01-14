@@ -14,3 +14,7 @@ More information and registration at the following website:
 
 http://ssls.nus.edu.sg/workshop/ismi.html
 
+## ISMI beamline upgrade
+
+Proposed upgrade includes new FTIR spectrometer, new FTIR microscope with FPA detector and near-field system for nanoscale IR and s-SNOM.
+
