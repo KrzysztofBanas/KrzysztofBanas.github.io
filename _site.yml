@@ -1,13 +1,13 @@
-name: "KRZYSZTOF B"                                  # CHANGE HERE 
+name: "KRZYSZTOF BANAS"                                  # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "KRZYSZTOF B"                               # CHANGE HERE 
+  title: "KRZYSZTOF BANAS"                               # CHANGE HERE 
   type: inverse
   left:
     - text: "Home"
       icon: fa-home
       href: index.html
-    - text: "About"
+    - text: "About Me"
       icon: fa-user 
       href: about.html
     - text: "CV"
