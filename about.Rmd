@@ -5,3 +5,9 @@ title: "About me"
 ## Header
 
 Say more about you here.
+
+## Hobbies
+
+1. Logic puzzles
+2. Running
+3. Photography

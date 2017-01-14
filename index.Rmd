@@ -3,3 +3,9 @@ title: "Welcome to my website!"
 ---
 
 You're up and running!
+
+There will be ISMI Beam-line workshop devoted to highlights of the research as well as the proposed upgrade.
+
+The title of the workshop is **Dive into nano-world**
+
+More information and registration at the following website:
