@@ -15,14 +15,14 @@ navbar:
       href: cv.html
     - text: "Blog"
       icon: fa-rss
-      href: https://YOURGITHUB.github.io/blog/    # CHANGE HERE 
+      href: https://KrzysztofBanas.github.io/blog/    # CHANGE HERE 
   right:
     - text: "Contact me"
       icon: fa-envelope-o
-      href: mailto:YOUREMAIL                      # CHANGE HERE 
+      href: mailto:slskb@nus.edu.sg                      # CHANGE HERE 
     - text: "GitHub"
       icon: fa-github
-      href: https://github.com/YOURGITHUB         # CHANGE HERE 
+      href: https://github.com/KrzysztofBanas        # CHANGE HERE 
 output:
   html_document:
     theme: cosmo
