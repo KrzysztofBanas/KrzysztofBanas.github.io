@@ -4,13 +4,17 @@ title: "CV"
 
 <a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
 
-## Header
+## Current Postion
 
-Say more about your CV here.
+senior research fellow  
+Singapore Synchrotron Light Source  
+National University of Singapore  
 
-## Header 2
+## Recent conferences
 
-Testing.
+
+* Frascati 
+* Jaszowiec 
 
 ## Recent Papers
 
