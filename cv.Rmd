@@ -1,8 +1,9 @@
 ---
-title: "CV"
+title: "About me"
 ---
 
-<a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
+
+
 
 ## Current Postion
 
@@ -13,10 +14,25 @@ National University of Singapore
 ## Recent conferences
 
 
-* Frascati 
-* Jaszowiec
-* Riverhead
-* Lorne
+* 13th International Conference on Atomically Controlled Surfaces, Interfaces and Nanostructures, Frascati, Italy, 9-15.10.2016 
+* 13th International School and Symposium on Synchrotron Radiation in Natural Science, Ustron-Jaszowiec, Poland, 13-18.06.2016
+* 4th Singapore Synchrotron Light Source Users' Meeting, NUS University Hall, Singapore, 29.02.2016
+* 8th International Workshop on Infrared Microscopy and Spectroscopy with Accelerator-Based Sources (WIRMS), Riverhead, NJ, USA, 11-15.10.2015 
+* 50th Zakopane School of Physics, Zakopane, Poland, 18-23.05.2015
+* National Soil Science Conference, MCG, Melbourne, Australia, 23-27.11.2014
+* 8th Asia Oceania Forum for Synchrotron Radiation Research (AOFSRR), National Synchrotron Radiation Research Center, Hsinchu, Taiwan, 15-17.09.2014
+* 8th SPEC - Shedding New Light on Disease, Krakow, Poland, 17-22.08.2014
+* 7th International Workshop on Infrared Microscopy and Spectroscopy with Accelerator-Based Sources (WIRMS), Lorne, Australia, NOV 10-14.11.2013
+* 7th Asia Oceania Forum for Synchrotron Radiation Research (AOFSRR), Himei, Japan, 21-24.09.2013
+* 11th International School and Symposium on Synchrotron Radiation in Natural Science (ISSRNS), Tyniec, Poland, 20-25.05.2012
+* X-ray Technology and Phase Contrast Imaging Workshop, SIMTech Auditorium, NTU, Singapore, 02.11.2011
+* 6th International Workshop on Infrared Microscopy and Spectroscopy with Accelerator-Based Sources (WIRMS), Trieste, Italy 4-8.09.2011
+* International Conference on Materials for Advanced Technologies (ICMAT), Suntec Convention Centre, Singapore 26.06-01.07.2011
+* La Trobe-NUS Workshop on Synchrotron and Nanoscale Science, NUS, Singapore, 23.06.2011
+* 7th International Conference on Synchrotron Radiation in Materials Science (SRMS), Oxford, UK, 11-14.07.2010
+* 4th Materials Research Society of Singapore (MRS-S) Conference on Advanced Materials, IMRE, Singapore, 17-19.03.2010
+* 3rd SSLS Synchrotron Radiation Workshop and Users' Meeting, Safra Mount Faber, Singapore, 19.11.2009
+
 
 
 ## Recent Papers
@@ -25,3 +41,9 @@ National University of Singapore
 2. paper 2
 3. paper 3
 4. paper 4
+
+You can download pdf version of my CV:
+
+<a href="CVfull.pdf#" class="download" title="Download CV as PDF">Download full CV</a>
+
+<a href="CVshort.pdf#" class="download" title="Download CV as PDF">Download 1-page CV</a>
