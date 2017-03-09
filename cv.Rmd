@@ -13,7 +13,7 @@ National University of Singapore
 
 ## Recent conferences
 
-* 1st Infrared Spectroscopy and MIcroscopy(ISMI) beam-line workshop, Singapore, 23.02.2017  
+* 1st Infrared Spectroscopy and MIcroscopy(ISMI) beam-line workshop, Stephen Riady Centre UTown NUS, Singapore, 23.02.2017  
 * 13th International Conference on Atomically Controlled Surfaces, Interfaces and Nanostructures, Frascati, Italy, 9-15.10.2016 
 * 13th International School and Symposium on Synchrotron Radiation in Natural Science, Ustron-Jaszowiec, Poland, 13-18.06.2016
 * 4th Singapore Synchrotron Light Source Users' Meeting, NUS University Hall, Singapore, 29.02.2016
@@ -22,7 +22,7 @@ National University of Singapore
 * National Soil Science Conference, MCG, Melbourne, Australia, 23-27.11.2014
 * 8th Asia Oceania Forum for Synchrotron Radiation Research (AOFSRR), National Synchrotron Radiation Research Center, Hsinchu, Taiwan, 15-17.09.2014
 * 8th SPEC - Shedding New Light on Disease, Krakow, Poland, 17-22.08.2014
-* 7th International Workshop on Infrared Microscopy and Spectroscopy with Accelerator-Based Sources (WIRMS), Lorne, Australia, NOV 10-14.11.2013
+* 7th International Workshop on Infrared Microscopy and Spectroscopy with Accelerator-Based Sources (WIRMS), Lorne, Australia, 10-14.11.2013
 * 7th Asia Oceania Forum for Synchrotron Radiation Research (AOFSRR), Himei, Japan, 21-24.09.2013
 * 11th International School and Symposium on Synchrotron Radiation in Natural Science (ISSRNS), Tyniec, Poland, 20-25.05.2012
 * X-ray Technology and Phase Contrast Imaging Workshop, SIMTech Auditorium, NTU, Singapore, 02.11.2011
@@ -31,8 +31,9 @@ National University of Singapore
 * La Trobe-NUS Workshop on Synchrotron and Nanoscale Science, NUS, Singapore, 23.06.2011
 * 7th International Conference on Synchrotron Radiation in Materials Science (SRMS), Oxford, UK, 11-14.07.2010
 * 4th Materials Research Society of Singapore (MRS-S) Conference on Advanced Materials, IMRE, Singapore, 17-19.03.2010
+* Internation Network of Younf Scientists Workshop, Engineering Faculty NUS, Singapore, 2-5.07.2009
 * 3rd SSLS Synchrotron Radiation Workshop and Users' Meeting, Safra Mount Faber, Singapore, 19.11.2009
-
+* 2nd SSLS Synchrotron Radiation Workshop and Users' Meeting, Discovery Theatrette at Biopolis, Singapore, 21.11.2008
 
 
 ## Recent Papers
