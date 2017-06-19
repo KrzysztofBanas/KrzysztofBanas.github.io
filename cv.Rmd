@@ -47,6 +47,6 @@ National University of Singapore
 
 You can download pdf version of my CV:
 
-<a href="CVfull.pdf#" class="download" title="Download CV as PDF">Download full CV</a>
+<a href="CV.pdf" class="download" title="Download CV as PDF">Download full CV</a>
 
-<a href="CVshort.pdf#" class="download" title="Download CV as PDF">Download 1-page CV</a>
+<a href="CV.pdf" class="download" title="Download CV as PDF">Download 1-page CV</a>
