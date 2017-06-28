@@ -1,17 +1,23 @@
 ---
-title: "About me"
+title: "CV"
 ---
 
 
+You can download pdf version of my CV:
 
+<a href="CV.pdf" class="download" title="Download CV as PDF">Download full CV</a>
 
-## Current Postion
+<a href="CV.pdf" class="download" title="Download CV as PDF">Download 1-page CV</a>
 
-senior research fellow  
-Singapore Synchrotron Light Source  
-National University of Singapore  
+# CURRENT PROJECTS
 
-## Recent conferences
+* P1
+* P2
+* P3
+
+# RECENT 
+
+## Conferences
 
 * 9th International Workshop on Infrared Microscopy and Spectroscopy with Accelerator-Based Sources (WIRMS), Worcester College, Oxford, UK, 25-28.09.2017
 * 52th Zakopane School of Physics, Zakopane, Poland, 22-27.05.2017
@@ -19,6 +25,19 @@ National University of Singapore
 * 13th International Conference on Atomically Controlled Surfaces, Interfaces and Nanostructures, Frascati, Italy, 9-15.10.2016 
 * 13th International School and Symposium on Synchrotron Radiation in Natural Science, Ustron-Jaszowiec, Poland, 13-18.06.2016
 * 4th Singapore Synchrotron Light Source Users' Meeting, NUS University Hall, Singapore, 29.02.2016
+
+## Papers
+
+1. paper 1
+2. paper 2
+3. paper 3
+4. paper 4
+
+
+# PREVIOUS 
+
+## Conferences
+
 * 8th International Workshop on Infrared Microscopy and Spectroscopy with Accelerator-Based Sources (WIRMS), Riverhead, NJ, USA, 11-15.10.2015 
 * 50th Zakopane School of Physics, Zakopane, Poland, 18-23.05.2015
 * National Soil Science Conference, MCG, Melbourne, Australia, 23-27.11.2014
@@ -38,15 +57,9 @@ National University of Singapore
 * 2nd SSLS Synchrotron Radiation Workshop and Users' Meeting, Discovery Theatrette at Biopolis, Singapore, 21.11.2008
 
 
-## Recent Papers
+## Papers
 
 1. paper 1
 2. paper 2
 3. paper 3
 4. paper 4
-
-You can download pdf version of my CV:
-
-<a href="CV.pdf" class="download" title="Download CV as PDF">Download full CV</a>
-
-<a href="CV.pdf" class="download" title="Download CV as PDF">Download 1-page CV</a>

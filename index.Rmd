@@ -4,17 +4,44 @@ title: "Welcome to my website!"
 
 # NEWS 
 
-## ISMI WORKSHOP
 
-There will be ISMI Beam-line workshop devoted to highlights of the research as well as the proposed upgrade.
+## New projects at ISMI
 
-The title of the workshop is *Dive into nano-world*
-
-More information and registration at the following website:
-
-http://ssls.nus.edu.sg/workshop/ismi.html
+* Looking into past - search for organic compouds in archaeological samples 
+* 
 
 ## ISMI beamline upgrade
 
-Proposed upgrade includes new FTIR spectrometer, new FTIR microscope with FPA detector and near-field system for nanoscale IR and s-SNOM.
+Proposed upgrade includes:
+
+* new FTIR (Fourier Transform Infra-Red) spectrometer and microscope with FPA (Focal Plane Array) detector 
+* near-field system for nano-scale IR spectroscopy, imaging and s-SNOM (scattering Scanning Near-field Optical Microscope)
+
+
+# ISMI Maintenance:
+
+
+Nitrogen for system purge:
+
+* 2017.06.12
+
+
+Liquid nitrogen for MCT detector cooling:
+
+* 2017.06.12
+
+
+# PAST NEWS
+
+## ISMI WORKSHOP (23 February 2017)
+
+There was first ISMI Beam-line workshop devoted to highlights of the research as well as the proposed upgrade.
+
+The title of the workshop was *Dive into nano-world*
+
+More information is available at the following website:
+
+http://ssls.nus.edu.sg/workshop/ismi.html
+
+
 
