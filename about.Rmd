@@ -2,12 +2,14 @@
 title: "About me"
 ---
 
-## Header
+## Current Postion
 
-Say more about you here.
+senior research fellow  
+Singapore Synchrotron Light Source  
+National University of Singapore 
 
 ## Hobbies
 
-1. Logic puzzles
-2. Running
-3. Photography
+* Logic puzzles
+* Running
+* Photography
