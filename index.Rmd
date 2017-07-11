@@ -24,12 +24,13 @@ Proposed upgrade includes:
 Nitrogen for system purge:
 
 * 2017.06.12
-
+* 2017.06.29
+* 2017.07.11
 
 Liquid nitrogen for MCT detector cooling:
 
 * 2017.06.12
-
+* 2017.07.11
 
 # PAST NEWS
 
