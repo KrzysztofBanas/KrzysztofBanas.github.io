@@ -4,7 +4,7 @@
 
 <head>
 
-<meta charset="utf-8">
+<meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 
@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
@@ -31,10 +31,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -237,19 +239,19 @@ $(document).ready(function () {
 <p>You can download pdf version of my CV:</p>
 <p><a href="CV.pdf" class="download" title="Download CV as PDF">Download full CV</a></p>
 <p><a href="CV.pdf" class="download" title="Download CV as PDF">Download 1-page CV</a></p>
-<div id="current-projects" class="section level1">
-<h1>CURRENT PROJECTS</h1>
+<div id="current-projects-2016-2017" class="section level1">
+<h1>CURRENT PROJECTS (2016-2017)</h1>
 <ul>
-<li>P1</li>
-<li>P2</li>
-<li>P3</li>
+<li>Nanoscale IR spectroscopy of carbon nanotubes - evaluation of spectroscopic and imaging results</li>
+<li>Comparison of workflows for open source solutions for IR spectroscopy data sets processing: R Studio/Shiny and Orange (Python)</li>
+<li>Building Shiny interface for user-friendly IR spectra viewer for ISMI beamline</li>
 </ul>
 </div>
-<div id="recent" class="section level1">
-<h1>RECENT</h1>
-<div id="conferences" class="section level2">
-<h2>Conferences</h2>
+<div id="recent-conferences-2016-2017" class="section level1">
+<h1>Recent Conferences (2016-2017)</h1>
 <ul>
+<li>1st RCM of the project</li>
+<li>FTIR Workshop Berlin</li>
 <li>9th International Workshop on Infrared Microscopy and Spectroscopy with Accelerator-Based Sources (WIRMS), Worcester College, Oxford, UK, 25-28.09.2017</li>
 <li>52th Zakopane School of Physics, Zakopane, Poland, 22-27.05.2017</li>
 <li>1st Infrared Spectroscopy and MIcroscopy(ISMI) beam-line workshop, Stephen Riady Centre UTown NUS, Singapore, 23.02.2017</li>
@@ -258,20 +260,16 @@ $(document).ready(function () {
 <li>4th Singapore Synchrotron Light Source Users’ Meeting, NUS University Hall, Singapore, 29.02.2016</li>
 </ul>
 </div>
-<div id="papers" class="section level2">
-<h2>Papers</h2>
+<div id="recent-papers-2016-2017" class="section level1">
+<h1>Recent Papers (2016-2017)</h1>
 <ol style="list-style-type: decimal">
-<li>paper 1</li>
-<li>paper 2</li>
-<li>paper 3</li>
-<li>paper 4</li>
+<li>Banas, K., Banas, A., Heussler, S. P. and Breese, M. B. H. Influence of spectral resolution, spectral range and signal-to-noise ratio of Fourier transform infra-red spectra on identification of high explosive substances Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, 2018(188C), pp. 106-112</li>
+<li>Banas, A., Banas, K., Kalaiselvi, S. M. P., Pawlicki, P., Kwiatek, W. M. and Breese M B, H Is it possible to find presence of lactose in pharmaceuticals? — Preliminary studies by ATR-FTIR spectroscopy and chemometrics Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy Volume 171, 15 January 2017, Pages 280–286, 2017, Vol. 171, pp. 280–286</li>
+<li>McDonald, G., Tavakkoli, E., Cozzolino, D., Banas, K., Derrien, M. and Rengasamy, P. Field survey of total and dissolved organic carbon in alkaline soils of southern Australia: effect of pH and land management Soil Research, 2016</li>
 </ol>
 </div>
-</div>
-<div id="previous" class="section level1">
-<h1>PREVIOUS</h1>
-<div id="conferences-1" class="section level2">
-<h2>Conferences</h2>
+<div id="previous-conferences-2008-2015" class="section level1">
+<h1>Previous Conferences (2008-2015)</h1>
 <ul>
 <li>8th International Workshop on Infrared Microscopy and Spectroscopy with Accelerator-Based Sources (WIRMS), Riverhead, NJ, USA, 11-15.10.2015</li>
 <li>50th Zakopane School of Physics, Zakopane, Poland, 18-23.05.2015</li>
@@ -292,15 +290,14 @@ $(document).ready(function () {
 <li>2nd SSLS Synchrotron Radiation Workshop and Users’ Meeting, Discovery Theatrette at Biopolis, Singapore, 21.11.2008</li>
 </ul>
 </div>
-<div id="papers-1" class="section level2">
-<h2>Papers</h2>
+<div id="previous-papers" class="section level1">
+<h1>Previous Papers</h1>
 <ol style="list-style-type: decimal">
 <li>paper 1</li>
 <li>paper 2</li>
 <li>paper 3</li>
 <li>paper 4</li>
 </ol>
-</div>
 </div>
 
 
@@ -326,7 +323,7 @@ $(document).ready(function () {
   (function () {
     var script = document.createElement("script");
     script.type = "text/javascript";
-    script.src  = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
     document.getElementsByTagName("head")[0].appendChild(script);
   })();
 </script>
